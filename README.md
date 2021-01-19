@@ -19,4 +19,9 @@ Final Results | Set | Accuracy | |:-:|:-:| | Validation Set | ~95% | | Test Set 
 * NO - coded as 0  (There is no tumor)
 * YES -  coded as 1  (There is a tumor)
 ![logo](/SS/barin5.png)
-
+### Loss and Accuarry Graph
+![logo](/SS/brain1.png)
+![logo](/SS/barin2.png)
+### Confusion Matrixes
+![logo](/SS/brain3.png)
+![logo](/SS/brain4.png)
