@@ -18,5 +18,5 @@ Final Results | Set | Accuracy | |:-:|:-:| | Validation Set | ~95% | | Test Set 
 
 * NO - coded as 0  (There is no tumor)
 * YES -  coded as 1  (There is a tumor)
+![logo](/SS/barin5.png)
 
-[!logo] (barin5.png)
